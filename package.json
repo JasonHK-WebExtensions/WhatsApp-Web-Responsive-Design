@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-web-responsive-design",
+  "description": "Add Responsive Web Design support to WhatsApp Web.",
+  "private": true,
+  "license": "AGPL-3.0",
+  "version": "0.0.1",
+  "author": "Jason Kwok <github@jasonhk.email> (https://jasonhk.net)",
+  "homepage": "https://github.com/JasonHK-WebExtensions/MCBBS-Server-Verification-Helper#readme",
+  "keywords": [
+    "whatsapp",
+    "whatsapp-web"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonHK-WebExtensions/MCBBS-Server-Verification-Helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JasonHK-WebExtensions/MCBBS-Server-Verification-Helper/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
