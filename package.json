@@ -21,7 +21,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "jss": "^10.1.1",
+    "jss-preset-default": "^10.1.1"
+  },
   "devDependencies": {
     "@types/firefox-webext-browser": "^70.0.1",
     "typescript": "^3.8.3"
