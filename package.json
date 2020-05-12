@@ -22,6 +22,8 @@
   },
   "main": "index.js",
   "dependencies": {
+    "@aloreljs/bound-decorator": "^1.1.0",
+    "eventemitter3": "^4.0.3",
     "jss": "^10.1.1",
     "jss-preset-default": "^10.1.1"
   },
