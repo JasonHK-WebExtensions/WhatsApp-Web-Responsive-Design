@@ -1,0 +1,6 @@
+{
+    "extends": "./tsconfig.build.src.json",
+    "compilerOptions": {
+        "rootDir": "../src/loader",
+    },
+}
