@@ -2,5 +2,15 @@
     "extends": "./tsconfig.build.src.json",
     "compilerOptions": {
         "rootDir": "../src/loader",
+        "lib": [
+            "DOM",
+            "ES2015",
+        ],
+        "types": [
+            "firefox-webext-browser",
+        ],
     },
+    "include": [
+        "../src/loader/**/*",
+    ],
 }
